@@ -46,8 +46,3 @@
 - 🎨 Завести арт-блог и участвовать в челленджах
 - 🌐 Подружиться с **Ktor** и **Kubernetes**
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nyxsed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
