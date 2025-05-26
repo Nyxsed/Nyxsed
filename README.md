@@ -33,7 +33,7 @@
 
 ### 📫 Связаться со мной
 
-- Email: ![Email][simakover@gmail.com]
+- Email: ![Email](simakover@gmail.com)
 - Telegram: [@simakover]
 - HH.ru: [https://ekaterinburg.hh.ru/resume/90a19c0eff0ee137150039ed1f75384c624a33]
 
